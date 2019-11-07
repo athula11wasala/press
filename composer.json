@@ -1,0 +1,9 @@
+{
+    "name": "wasala/press",
+    "description": "hello",
+    "license": "MIT",
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^4.3"
+    }
+}
